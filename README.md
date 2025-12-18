@@ -47,8 +47,9 @@ I maintain a personal homelab where I experiment with:
 
 ---
 
-## Contact Me
+## Links
 - LinkedIn: [Tomás Neto](https://www.linkedin.com/in/tomas-n-41b479293/)   
+- Printables: [Tomás Neto](https://printables.com/@TomasNeto_2525377)
 
 ---
 
