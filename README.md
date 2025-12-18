@@ -1,4 +1,4 @@
-# Hello, I'm Tomás Neto
+# Tomás Neto
 
 **Cybersecurity Professional | Blue Team | DevOps | SysAdmin | SOC Enthusiast**
 
