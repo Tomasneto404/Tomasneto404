@@ -49,7 +49,8 @@ I maintain a personal homelab where I experiment with:
 
 ## Links
 - LinkedIn: [Tomás Neto](https://www.linkedin.com/in/tomas-n-41b479293/)   
-- Printables: [Tomás Neto](https://printables.com/@TomasNeto_2525377)
+- Printables: [@TomasNeto_2525377](https://printables.com/@TomasNeto_2525377)
+- Website: [tomasneto404.github.io](https://tomasneto404.github.io/)
 
 ---
 
