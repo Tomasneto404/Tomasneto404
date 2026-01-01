@@ -51,6 +51,7 @@ I maintain a personal homelab where I experiment with:
 ## Links
 - LinkedIn: [Tomás Neto](https://www.linkedin.com/in/tomas-n-41b479293/)   
 - Printables: [@TomasNeto_2525377](https://printables.com/@TomasNeto_2525377)
+- Cults3D: [St1ch0](https://cults3d.com/pt/usuarios/st1ch0/modelos-3d)
 - Website: [tomasneto404.github.io](https://tomasneto404.github.io/)
 
 ---
