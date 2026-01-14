@@ -48,6 +48,18 @@ I maintain a personal homelab where I experiment with:
 - Cloud security best practices  
 - Offensive security techniques for better defense
 - Fullstack Web Development and Deployment
+  - MonoRepo's
+  - Frontend
+  - Backend
+  - Database
+  - Search Engines
+  - Cache
+  - CDN
+  - Container Orchestration
+  - CI/CD
+  - Micro Services
+  - Monitoring
+  - ...
 
 ---
 
