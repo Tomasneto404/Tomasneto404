@@ -9,7 +9,7 @@ I am passionate about protecting systems, networks, and infrastructures while au
 ## Core Skills
 - **Cybersecurity & Blue Team:** SOC monitoring, threat detection, incident response  
 - **Networking:** Firewalls, routing, switching, VLANs, VPNs  
-- **DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible  
+- **DevOps & Automation:** Docker  
 - **System Administration:** Linux & Windows servers, virtualization, cloud environments  
 
 ---
@@ -42,6 +42,8 @@ I maintain a personal homelab where I experiment with:
 ---
 
 ## Currently Learning
+- Wazuh SIEM Solutions
+- Kubernetes, Terraform, Ansible
 - Advanced threat hunting and detection  
 - Cloud security best practices  
 - Offensive security techniques for better defense  
