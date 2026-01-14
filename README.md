@@ -46,7 +46,8 @@ I maintain a personal homelab where I experiment with:
 - Kubernetes, Terraform, Ansible
 - Advanced threat hunting and detection  
 - Cloud security best practices  
-- Offensive security techniques for better defense  
+- Offensive security techniques for better defense
+- Fullstack Web Development and Deployment
 
 ---
 
