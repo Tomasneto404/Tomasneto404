@@ -1,24 +1,34 @@
 # Tomás Neto
 
-**Cybersecurity Professional | Blue Team | DevOps | SysAdmin | SOC Enthusiast**
+**Cybersecurity Professional | Blue & Purple Team | DevOps | SysAdmin | Open Source Contributor**
 
-I am passionate about protecting systems, networks, and infrastructures while automating processes and optimizing operations. I enjoy building secure environments, monitoring threats, and continuously learning new defensive strategies.
+I am passionate about protecting systems, networks, and infrastructures while automating processes and optimizing operations. I enjoy building secure environments, monitoring threats, and understanding how attackers think so I can build better defenses. I actively contribute to the open-source ecosystem, building and sharing tools that solve real problems in security and infrastructure.
 
 ---
 
 ## Core Skills
-- **Cybersecurity & Blue Team:** SOC monitoring, threat detection, incident response  
-- **Networking:** Firewalls, routing, switching, VLANs, VPNs  
-- **DevOps & Automation:** Docker, Ansible, Bash Scripting
-- **System Administration:** Linux & Windows servers, virtualization, cloud environments  
+- **Cybersecurity & Blue Team:** SOC monitoring, SIEM engineering, threat detection, incident response
+- **Networking:** Firewalls, routing, switching, VLANs, VPNs, overlay networks
+- **DevOps & Automation:** Docker, Ansible, Bash scripting, CI/CD
+- **System Administration:** Linux & Windows servers, virtualization, identity management, monitoring
+
+---
+
+## Open Source
+I build and maintain open-source tools focused on security and self-hosted infrastructure:
+- **[DocTheNet](https://github.com/tomasneto404/DocTheNet)** – Full Network documentation tool
+- **[LinkPage](https://github.com/tomasneto404/linkpage)** – Self-hosted link and policy portal
+
+Contributions, issues, and feedback are always welcome!
 
 ---
 
 ## Homelab
 I maintain a personal homelab where I experiment with:
-- Security tools & simulations  
-- Network configurations and testing  
-- Automation and infrastructure as code  
+- Security tools, attack simulations, and detection testing
+- Network configurations and overlay networking
+- Automation and infrastructure as code
+- Self-hosted services and storage
 
 ---
 
@@ -42,31 +52,22 @@ I maintain a personal homelab where I experiment with:
 ---
 
 ## Currently Learning
-- [X] Wazuh SIEM Solutions                                                  --> Implemented Professionaly
-- [] Kubernetes, Terraform, Ansible                                         --> IN PROGRESS
-- [] Advanced threat hunting and detection                                  --> IN PROGRESS
-- [] Cloud security best practices                                          --> IN PROGRESS
-- [] Fullstack Web Development and Deployment                               --> IN PROGRESS
-  - MonoRepo's
-  - Frontend
-  - Backend
-  - Database
-  - Search Engines
-  - Cache
-  - CDN
-  - Container Orchestration
-  - CI/CD
-  - Micro Services
-  - Monitoring
-  - ...
+- [x] Wazuh SIEM → Implemented professionally in production
+- [x] Ansible → Used in production for infrastructure automation
+- [ ] Kubernetes & Terraform → IN PROGRESS
+- [ ] Offensive Security & Red Teaming (Purple Team approach) → IN PROGRESS
+  - Adversary emulation (MITRE ATT&CK)
+  - Web & infrastructure pentesting
+  - Turning attack techniques into detection rules
+- [ ] Advanced threat hunting and detection engineering → IN PROGRESS
+- [ ] Cloud security best practices → IN PROGRESS
 
 ---
 
 ## Links
-- LinkedIn: [Tomás Neto](https://www.linkedin.com/in/tomas-n-41b479293/)   
+- LinkedIn: [Tomás Neto](https://www.linkedin.com/in/tomas-n-41b479293/)
+- Website: [tomasneto404.github.io](https://tomasneto404.github.io/)
 - Printables: [@TomasNeto_2525377](https://printables.com/@TomasNeto_2525377)
 - Cults3D: [St1ch0](https://cults3d.com/pt/usuarios/st1ch0/modelos-3d)
-- Website: [tomasneto404.github.io](https://tomasneto404.github.io/)
 
 ---
-
